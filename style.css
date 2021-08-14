@@ -1,0 +1,84 @@
+body {
+	background-image: url(./weather-icon-gif-15.jpg);
+	background-size: 100%;
+}
+.box1{
+ 
+ width: 200px;
+ margin-left: 100px ;
+ border: 3px solid black;
+ padding: 40px;
+background-color: 03045e;
+	color: darkblue;
+	font-weight:bold ;
+	font-size: 24px;
+
+}
+.p1{
+	color: solid green;
+	font-size: 100%;
+
+}
+.con{
+	height: 300px;
+	width: 550px;
+	margin: 50px 0px 0px 480px;
+	background-color: transparent;
+	
+	
+    
+}
+.img{
+	
+	height: 302px;
+    width: 510px;
+    position: absolute;
+    left: 507px;
+    top: 547px;
+}
+.di{
+	/*display: flex;
+    height: 200px;
+    width: 230px;
+    border: 3px solid black;
+    padding: 40px 25px;
+    background-color: ;
+    margin-left: 1100px;
+    margin-top: -650px;
+    text-align: centers;
+    align-items: center;
+    list-style-type: none;
+    font-weight: bold;*/
+    display: flex;
+    height: 200px;
+    width: 230px;
+    padding: 40px 25px;
+    background-color: ;
+    margin-left: 1100px;
+    margin-top: -650px;
+    text-align: centers;
+    align-items: center;
+    list-style-type: none;
+    font-weight: bold;
+    position: absolute;
+    bottom: 154px;
+    font-size: 26px;
+    left: 5px;
+    border: solid;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 74px;
+}
+h1{
+	color: yellow;
+	text-align: center;
+	font-size: x-large;
+	margin-top: 80px;
+}
+.mp{
+margin-bottom: 504px;
+    margin-left: 502px;
+    margin-top: -631px;
+    width: 502px;
+}
